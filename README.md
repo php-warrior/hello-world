@@ -1,2 +1,5 @@
 # hello-world
-Just learn
+
+Hello all...
+
+I'm full stack web developer..
